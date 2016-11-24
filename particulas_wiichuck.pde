@@ -96,7 +96,7 @@ void serialEvent(Serial myPort) {
           if (i == 0) {
             sensorValues[i] = map(sensorValues[i], 28, 222, 0, width);
           } else if (i == 1) {
-            sensorValues[i] = map(sensorValues[i], 33, 220, 0, height);
+            sensorValues[i] = map(sensorValues[i], 220, 33, 0, height);
           }
         }
         print(numbers[0]);
