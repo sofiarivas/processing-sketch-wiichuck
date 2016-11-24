@@ -13,3 +13,5 @@ Right now the Arduino board uses a *Wii nunchuk* controller instead of the mouse
 The nunchuck is plugged into the arduino, the sketch is loaded on the board..and it will output X and Y coordantes from the joystick to be used insted of mouse coordinates. The arduino board and the Processing sketch communicate throug the serial port.
 
 :pushpin: I will be updating from with more details...
+
+![](nunchuck-arduino.jpeg)
