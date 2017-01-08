@@ -6,6 +6,12 @@
 
 ### An experiment to modify a processing sketch with physical controllers plugged through an Arduino board.
 
+**Different results from the Processing sketch:**
+
+![](./images/sketch.jpg)
+
+
+
 Right now the Arduino board uses a *Wii nunchuk* controller instead of the mouse coordinates. You can check it out in the arduino sketch: `Wiichuck-reader > Wiichuck-reader.ino`
 
 ##**How does it work?**
