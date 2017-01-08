@@ -33,11 +33,11 @@ Making this work wirelessly is still a project WIP, I'll leave here the resource
 
 **hc-05 setup**
 
-![](/Users/tofi/Documents/Sofi/particulas_wiichuck/images/hc-05.jpg)
+![](./images/hc-05.jpg)
 
 **hc-06 setup**
 
-![](/Users/tofi/Documents/Sofi/particulas_wiichuck/images/hc-06.jpg)
+![](./images/hc-06.jpg)
 
 
 
