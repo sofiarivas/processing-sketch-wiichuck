@@ -15,3 +15,7 @@ The nunchuck is plugged into the arduino, the sketch is loaded on the board..and
 :pushpin: I will be updating from with more details...
 
 ![](nunchuck-arduino.jpeg)
+
+##**Useful links :raised_hands:**
+* [Modify The HC-05 Bluetooth Module Defaults Using AT Commands by Hazim Bitar](http://www.techbitar.com/modify-the-hc-05-bluetooth-module-defaults-using-at-commands.html)
+* [Connecting 2 Arduinos by Bluetooth using a HC-05 and a HC-06: Pair, Bind, and Link](http://www.martyncurrey.com/connecting-2-arduinos-by-bluetooth-using-a-hc-05-and-a-hc-06-pair-bind-and-link/)
